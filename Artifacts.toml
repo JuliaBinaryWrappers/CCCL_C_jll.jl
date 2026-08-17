@@ -1,37 +1,37 @@
 [[CCCL_C]]
 arch = "x86_64"
 cuda = "12.8"
-git-tree-sha1 = "4487110bdcbc9c671e733c745c7cf7a6a40f4ac5"
+git-tree-sha1 = "2ef0ce90dc41a10397e251bb3ffce5a20013fc85"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[CCCL_C.download]]
-    sha256 = "5721ea6513195cd5c70e9b26eef01a2fa5d292a06e43e647a0967d5d0e222d67"
+    sha256 = "1d31a728893e2a16140d2c4c6665a60ba7d36ce64e37fd7a0e5293f52bd30760"
     url = "https://github.com/JuliaBinaryWrappers/CCCL_C_jll.jl/releases/download/CCCL_C-v3.5.0+1/CCCL_C.v3.5.0.x86_64-linux-gnu-cuda+12.8.tar.gz"
 [[CCCL_C]]
 arch = "aarch64"
 cuda = "12.8"
 cuda_platform = "jetson"
-git-tree-sha1 = "923d2481ac98a947f4b7d18bd67d56ac389e4efc"
+git-tree-sha1 = "1aa134433da880969329914c4fd249c8192f51cb"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[CCCL_C.download]]
-    sha256 = "a9df5a084ac9e4da2f07b3b4484dce18ccb86950bc68b6bdf3659ed10731b2ea"
+    sha256 = "89857a2d394dcb8cfb94edf18501cfebee45347279c8b67d69eddacf14429a82"
     url = "https://github.com/JuliaBinaryWrappers/CCCL_C_jll.jl/releases/download/CCCL_C-v3.5.0+1/CCCL_C.v3.5.0.aarch64-linux-gnu-cuda_platform+jetson-cuda+12.8.tar.gz"
 [[CCCL_C]]
 arch = "aarch64"
 cuda = "12.8"
 cuda_platform = "sbsa"
-git-tree-sha1 = "486a19b78e6d9ebf2a2f0fd6a99e8cfe80ada639"
+git-tree-sha1 = "82b9c80b3b0b556d88770c85e3233d2026cbc129"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[CCCL_C.download]]
-    sha256 = "50e4d9bbe229d6c208358c7c43fde2a3755d6af330cdddd2bdd67424e5945299"
+    sha256 = "306a883fc769fde5097f9f0bcf7f96d3e4f537f3c57027d6eb1b6dc6b3a612fe"
     url = "https://github.com/JuliaBinaryWrappers/CCCL_C_jll.jl/releases/download/CCCL_C-v3.5.0+1/CCCL_C.v3.5.0.aarch64-linux-gnu-cuda_platform+sbsa-cuda+12.8.tar.gz"
 [[CCCL_C]]
 arch = "x86_64"
@@ -46,24 +46,24 @@ os = "windows"
 [[CCCL_C]]
 arch = "x86_64"
 cuda = "13.0"
-git-tree-sha1 = "a602015df4388fecb6457cd3c6989ca3c89d659f"
+git-tree-sha1 = "2b7838ff45b4b9b774034b87f8b9dd7e7ebe451a"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[CCCL_C.download]]
-    sha256 = "e32b61a4b1be885d7f25327db7d9a08e706d9e323d03ab1dc19ffacc8e2aea8a"
+    sha256 = "289158bb4c883bd646c86387460c82b5cf62dc2b3b5126a16e58c862a0eecf50"
     url = "https://github.com/JuliaBinaryWrappers/CCCL_C_jll.jl/releases/download/CCCL_C-v3.5.0+1/CCCL_C.v3.5.0.x86_64-linux-gnu-cuda+13.0.tar.gz"
 [[CCCL_C]]
 arch = "aarch64"
 cuda = "13.0"
-git-tree-sha1 = "5fc0496b046b28e70f772d0c3ff96e13e61737cf"
+git-tree-sha1 = "df5384b05138ea38963ba5620acde4731d6b5a94"
 lazy = true
 libc = "glibc"
 os = "linux"
 
     [[CCCL_C.download]]
-    sha256 = "7492899b21b111f440635d6f3356285a6d4aa2bf2b84c799ad73f9c8253fe0f0"
+    sha256 = "4a4c1010d34ad298c4c5c5a4440b42a50875a9ed9c8476dcc748b2c0d216ac5a"
     url = "https://github.com/JuliaBinaryWrappers/CCCL_C_jll.jl/releases/download/CCCL_C-v3.5.0+1/CCCL_C.v3.5.0.aarch64-linux-gnu-cuda+13.0.tar.gz"
 [[CCCL_C]]
 arch = "x86_64"
